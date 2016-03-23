@@ -5,7 +5,7 @@ Memorandum
 
 #Table of contents
 
-- [Atom Installation](#demo)
+- [Atom Installation](https://github.com/jarden-liu/Memorandum/blob/master/AtomInstallation.md)
 
 <!-- # Demo
 
