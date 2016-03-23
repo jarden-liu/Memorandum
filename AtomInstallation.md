@@ -1,11 +1,11 @@
-(Atom 安装)
+Atom Installation
 ================
-> 这是一个开源的文本编辑器
+> Atom installation process
 
-##下载Atom
-* Atom官网: [@https://atom.io/](https://atom.io/)
+##down load Atom
+* Atom IO: [@https://atom.io/](https://atom.io/)
 
-##Atom 常用插件
+##Atom plugin
 ```bash
     atom-beautify
     autoclose-html

@@ -6,6 +6,7 @@ Memorandum
 #Table of contents
 
 - [Atom Installation](https://github.com/jarden-liu/Memorandum/blob/master/AtomInstallation.md)
+- [Ionic Installation](https://github.com/jarden-liu/Memorandum/blob/master/IonicInstallation.md)
 
 <!-- # Demo
 
