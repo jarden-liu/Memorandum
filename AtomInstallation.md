@@ -16,6 +16,7 @@ Atom Installation
     linter
     linter-eslint
 ```
+
 ##Subline Text Theme
 ```bash
     Sub Monokai
