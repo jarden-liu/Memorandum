@@ -10,12 +10,17 @@ Ionic Installation
 ```bash
   npm install -g cordova ionic
 ```
-* if NPM is blocked by the Chinese Great Firewall,you can set npm config to taobao.org
+* if NPM is blocked by the Chinese Great Firewall,you can set npm registry to taobao.org
 ```bash
   npm config set registry https://registry.npm.taobao.org
 ```
-* if you want to rollback the default config,set the follow order
+* if you want to rollback the default config,set registry as follow
 ```bash
   npm config set registry http://registry.npmjs.org/
   npm cache clean
+```
+
+* if you got an error when node-sass installation,you should download the binary file [https://github.com/sass/node-sass-binaries](https://github.com/sass/node-sass-binaries).Then run as follow
+```bash
+  npm -g install ionic --SASS_BINARY_PATH=D:/win32-ia32-46_binding.node
 ```
