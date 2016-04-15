@@ -10,11 +10,11 @@ Ubuntu Software Installation
 * 再重新运行上述应用,即可启动新版的国际版QQ（相对2012版功能一点）。
 
 ##wechat 微信
-* wine 微信输入框有bug，也没用大神修，放弃吧。
-* 网页版微信吧～～
+* wine 微信输入框有bug，也没有大神修，放弃吧。
+* 我写的微信谷歌浏览器插件[wechat-chrome-plugin](https://github.com/jarden-liu/wechat-chrome-plugin)
 
 ##nodeJs 4.x安装
-```bash
+```bash ab-sd
   wget -qO- https://deb.nodesource.com/setup_4.x | sudo bash -
   sudo apt-get install --yes nodejs
 ```
