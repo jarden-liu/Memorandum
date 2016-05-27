@@ -10,10 +10,17 @@ Ionic Installation
 ```bash
   npm install -g cordova ionic
 ```
+* or
+```bash
+  sudo npm install -g cordova ionic
+```
+
 * if NPM is blocked by the Chinese Great Firewall,you can set npm registry to taobao.org
 ```bash
   npm config set registry https://registry.npm.taobao.org
+  npm cache clean
 ```
+
 * if you want to rollback the default config,set registry as follow
 ```bash
   npm config set registry http://registry.npmjs.org/

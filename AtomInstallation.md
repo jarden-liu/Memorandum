@@ -13,9 +13,13 @@ Atom Installation
     editorconfig
     fonts
     highlight-selected
-    linter
     linter-eslint
 ```
+* install by apm
+```bash
+  apm install atom-beautify  autoclose-html  change-case  editorconfig  fonts  highlight-selected   linter-eslint
+```
+
 
 ##Subline Text Theme
 ```bash
@@ -23,7 +27,7 @@ Atom Installation
 ```
 ##change-case keybinding
 ```bash
-'.platform-win32 atom-workspace':
+'atom-workspace':
   'ctrl-q': 'change-case:camel'
   'ctrl-shift-q':'change-case:param'
 ```
