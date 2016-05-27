@@ -1,6 +1,6 @@
 Ubuntu
 ================
-> 乌班图64位常用软件安装备忘
+>
 
 
 ##nodeJs 4.x安装
@@ -11,7 +11,7 @@ Ubuntu
 
 ##Atom
 * 从github的Atom链接下载Atom-amd64.deb，双击通过应用商店安装或者`sudo dpkg --install atom-amd64.deb`
-* [Atom-amd64.deb](https://github-cloud.s3.amazonaws.com/releases/3228505/c9914f64-016c-11e6-9685-b660b0dc6b4e.deb?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAISTNZFOVBIJMK3TQ%2F20160414%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20160414T090923Z&X-Amz-Expires=300&X-Amz-Signature=52e8ee14d5a01bb1c29e050e6c5fa5003e8759a77f52ab780aadc07e51e4f93a&X-Amz-SignedHeaders=host&actor_id=11712343&response-content-disposition=attachment%3B%20filename%3Datom-amd64.deb&response-content-type=application%2Foctet-stream)
+* [Atom-amd64.deb](https://github.com/atom/atom)
 
 ##lantern
 * 翻墙神器
@@ -30,3 +30,23 @@ Ubuntu
 
 ##wps
 * 官网下载
+
+
+##JAVA
+网上有贼多教程，百度去
+
+##Smart git
+Linux下面算是比较好用的可视化git工具(需要JAVA)
+```bash
+  sudo apt-get install smartgit
+```
+
+##更新gulp2
+```bash
+  sudo update-grub2  
+```
+
+##查看apt-cache对应依赖的办法
+```bash
+  apt-cache search libName      （libname替换对应依赖的名字）
+```

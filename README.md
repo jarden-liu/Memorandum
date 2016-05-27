@@ -11,6 +11,7 @@ Memorandum
 
 #Linux
 - [ubuntu](https://github.com/jarden-liu/Memorandum/blob/master/Linux/ubuntu.md)
+- [deepin](https://github.com/jarden-liu/Memorandum/blob/master/Linux/deepin.md)
 
 <!-- # Demo
 
