@@ -8,6 +8,10 @@ Memorandum
 - [Atom Installation](https://github.com/jarden-liu/Memorandum/blob/master/AtomInstallation.md)
 - [Ionic Installation](https://github.com/jarden-liu/Memorandum/blob/master/IonicInstallation.md)
 
+
+#Linux
+- [ubuntu](https://github.com/jarden-liu/Memorandum/blob/master/Linux/ubuntu.md)
+
 <!-- # Demo
 
 ![Animated demo](https://github.com/aquint/ion-alpha-scroll/raw/master/demo.gif) -->

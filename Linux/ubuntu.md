@@ -1,4 +1,4 @@
-Ubuntu Software Installation
+Ubuntu
 ================
 > 乌班图64位常用软件安装备忘
 
@@ -20,21 +20,13 @@ Ubuntu Software Installation
 ##chrome 谷歌浏览器
 * [google-chrome-stable](https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb)
 
+
+
 ##搜狗输入法
-* 百度`搜狗输入法forlinux`进入官网下载deb安装包。（需要fcitx）
+* `搜狗输入法forlinux` 进入官网下载deb安装包。（需要fcitx）
 
 ##网易云音乐
-* 先安装wine最新版
-```bash
-  sudo dpkg --add-architecture i386
-  sudo add-apt-repository ppa:wine/wine-builds
-  sudo apt-get update
-  sudo apt-get install --install-recommends winehq-devel
-```
-* 需要修复一下wine的中文乱码问题，可以打开winehq app库里面的网易云音乐描述，根据描述配置一下就可以完美运行啦
+* `网易云音乐` 官网有deb安装包。
 
 ##wps
-* 百度下载安装包即可
-
-##深度音乐及其百度插件
-* 百度咯
+* 官网下载
