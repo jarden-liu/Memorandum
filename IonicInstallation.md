@@ -27,7 +27,16 @@ Ionic Installation
   npm cache clean
 ```
 
+
+
+##ISSUE
+* NODE-SASS BUILD ERROR
 * if you got an error when node-sass installation,you should download the binary file [https://github.com/sass/node-sass-binaries](https://github.com/sass/node-sass-binaries).Then run as follow
 ```bash
   npm -g install ionic --SASS_BINARY_PATH=D:/win32-ia32-46_binding.node
+```
+
+* WATCH ERROR ENOSPC
+```bash
+  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
 ```
